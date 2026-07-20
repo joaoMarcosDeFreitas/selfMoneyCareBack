@@ -1,0 +1,6 @@
+@selfmoneycareback_HostAddress = http://localhost:5062
+
+GET {{selfmoneycareback_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
